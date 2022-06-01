@@ -1,5 +1,8 @@
 # Yurii Sedow
 ***
+## My location
+***
+Gomel, Belarus
 ## My GitHub
 [GitHub] https://github.com/Avngrss
 ***
@@ -14,9 +17,6 @@ Always ready to new challenges and challenges. Ready to learn and learn somethin
 Ready to face challenges and make decisions to solve them.
 ***
 ### My contact
-
-
-
-
-
 [LinkedIn]https://www.linkedin.com/in/yuri-sedow
+****
+[Mail] sedow94@mail.ru
