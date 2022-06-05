@@ -36,8 +36,8 @@ I consider my strengths to be sociability and the ability to work in a team and 
 ```javascript
 function myFnc() {
   return 2 + 1
-}
-myFnc()
+};
+myFnc();
 ```
 ## MY CONTACT
 
