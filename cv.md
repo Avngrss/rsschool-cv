@@ -37,7 +37,7 @@ I consider my strengths to be sociability and the ability to work in a team and 
 function myFnc() {
   return 2 + 1
 }
-myFnc()
+myFnc()```
 ## MY CONTACT
 
 __[LinkedIn]https://www.linkedin.com/in/yuri-sedow__
