@@ -37,6 +37,4 @@ I consider my strengths to be sociability and the ability to work in a team and 
 
 __[LinkedIn]https://www.linkedin.com/in/yuri-sedow__
 
----
-
 __[Mail] sedow94@mail.ru__
