@@ -26,7 +26,7 @@ __> https://github.com/Avngrss/Castaway and other.__
 I own 
 - ![HTML](https://img.shields.io/badge/-HTML-E9967A), 
 - ![CSS/SCSS](https://img.shields.io/badge/CSS-SCSS-4682B4), 
-- basic Java Script 
+- ![Basic JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00), 
 - and use Bootstrap**.<br>
 - __Flex and Greed__. <br>
 I consider my strengths to be sociability and the ability to work in a team and use Github. Always ready to new challenges and challenges. Ready to learn and learn something new. Ready to face challenges and make decisions to solve them.
