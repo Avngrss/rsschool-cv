@@ -5,12 +5,6 @@
 ## MY LOCATION
 __Gomel, Belarus__
 
-## MY GITHUB
-
-> [GitHub] https://github.com/Avngrss
-
----
-
 ## MY WORKS
 
 ---
@@ -45,6 +39,6 @@ const changeClass = (el) => {
 ```
 ## MY CONTACT
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn&color=007BB6)](https://www.linkedin.com/in/yuri-sedow)<br>
-[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=007BB6)](https://www.linkedin.com/in/yuri-sedow)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn&color=007BB6)](https://www.linkedin.com/in/yuri-sedow)
+[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=#000000)](https://github.com/Avngrss)
 
