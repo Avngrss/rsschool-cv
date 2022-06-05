@@ -9,9 +9,9 @@ __Gomel, Belarus__
 
 ---
 
-__> [![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)]https://github.com/Avngrss/fcgomel,__<br>
+[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)](https://github.com/Avngrss/fcgomel)
 
-__> [![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)]https://github.com/Avngrss/Castaway and other.__
+[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)](https://github.com/Avngrss/Castaway and other)
 
 ---
 
