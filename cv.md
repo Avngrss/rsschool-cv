@@ -25,7 +25,7 @@ __> https://github.com/Avngrss/Castaway and other.__
 
 I own 
 - ![HTML](https://img.shields.io/badge/-HTML-E9967A), 
-- CSS(SCSS), 
+- ![CSS/SCSS](https://img.shields.io/badge/CSS-SCSS-4682B4), 
 - basic Java Script 
 - and use Bootstrap**.<br>
 - __Flex and Greed__. <br>
