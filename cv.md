@@ -9,9 +9,9 @@ __Gomel, Belarus__
 
 ---
 
-__> https://github.com/Avngrss/fcgomel,__<br>
+__> [![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)]https://github.com/Avngrss/fcgomel,__<br>
 
-__> https://github.com/Avngrss/Castaway and other.__
+__> [![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)]https://github.com/Avngrss/Castaway and other.__
 
 ---
 
