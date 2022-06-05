@@ -1,5 +1,5 @@
 https://Avngrss.github.io/rsschool-cv/cv
-
+https://Avngrss.github.io/rsschool-cv/
 # Yurii Sedow
 
 ---
