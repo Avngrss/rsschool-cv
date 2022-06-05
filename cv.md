@@ -6,7 +6,7 @@
 
 ---
 
-<<Gomel, Belarus>>
+__Gomel, Belarus__
 
 ## My GitHub
 
@@ -18,9 +18,9 @@
 
 ---
 
-> https://github.com/Avngrss/fcgomel,
+__> https://github.com/Avngrss/fcgomel,
 > ***
-> https://github.com/Avngrss/Castaway and other.
+__> https://github.com/Avngrss/Castaway and other.
 
 ---
 
@@ -32,8 +32,8 @@ I own HTML, CSS(SCSS), basic Java Script and use Bootstrap. Flex and Greed. I co
 
 ### My contact
 
-[LinkedIn]https://www.linkedin.com/in/yuri-sedow
+__[LinkedIn]https://www.linkedin.com/in/yuri-sedow__
 
 ---
 
-[Mail] sedow94@mail.ru
+__[Mail] sedow94@mail.ru__
