@@ -28,7 +28,7 @@ I own
 - ![CSS/SCSS](https://img.shields.io/badge/CSS-SCSS-4682B4), 
 - ![Basic JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00), 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A2BE2)
-- __Flex and Greed__. <br>
+- Flex and Greed. <br>
 I consider my strengths to be sociability and the ability to work in a team and use Github. Always ready to new challenges and challenges. Ready to learn and learn something new. Ready to face challenges and make decisions to solve them.
 
 ---
