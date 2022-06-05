@@ -1,5 +1,5 @@
 # Yurii Sedow
-
+[![header](https://github.com/Avngrss/rsschool-cv/blob/gh-pages/img/avatar.jpg)]
 ---
 
 ## MY LOCATION
