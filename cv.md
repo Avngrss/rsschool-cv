@@ -28,7 +28,8 @@ I own
 - CSS(SCSS), 
 - basic Java Script 
 - and use Bootstrap**.<br>
-__Flex and Greed__. I consider my strengths to be sociability and the ability to work in a team and use Github. Always ready to new challenges and challenges. Ready to learn and learn something new. Ready to face challenges and make decisions to solve them.
+- __Flex and Greed__. <br<
+I consider my strengths to be sociability and the ability to work in a team and use Github. Always ready to new challenges and challenges. Ready to learn and learn something new. Ready to face challenges and make decisions to solve them.
 
 ---
 
