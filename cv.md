@@ -18,9 +18,9 @@ __Gomel, Belarus__
 
 ---
 
-__> https://github.com/Avngrss/fcgomel,
+__> https://github.com/Avngrss/fcgomel,__
 > ***
-__> https://github.com/Avngrss/Castaway and other.
+__> https://github.com/Avngrss/Castaway and other.__
 
 ---
 
