@@ -21,7 +21,7 @@ __> https://github.com/Avngrss/Castaway and other.__
 
 ---
 
-### MY SKILLS
+## MY SKILLS
 
 I own 
 - **HTML, 
@@ -32,8 +32,13 @@ I own
 I consider my strengths to be sociability and the ability to work in a team and use Github. Always ready to new challenges and challenges. Ready to learn and learn something new. Ready to face challenges and make decisions to solve them.
 
 ---
-
-### MY CONTACT
+## MY CODE
+```javascript
+function myFnc() {
+  return 2 + 1
+}
+myFnc()
+## MY CONTACT
 
 __[LinkedIn]https://www.linkedin.com/in/yuri-sedow__
 
