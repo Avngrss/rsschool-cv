@@ -3,9 +3,6 @@
 ---
 
 ## MY LOCATION
-
----
-
 __Gomel, Belarus__
 
 ## MY GITHUB
