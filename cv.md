@@ -10,7 +10,7 @@ Gomel, Belarus
 
 ## My GitHub
 
-[GitHub] https://github.com/Avngrss
+> [GitHub] https://github.com/Avngrss
 
 ---
 
