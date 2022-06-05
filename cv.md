@@ -24,7 +24,7 @@ __> https://github.com/Avngrss/Castaway and other.__
 ## MY SKILLS
 
 I own 
-- ![HTML]https://img.shields.io/endpoint?url=<URL>&style<STYLE>, 
+- ![HTML][https://img.shields.io/endpoint?url=<URL>&style<STYLE>](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>), 
 - CSS(SCSS), 
 - basic Java Script 
 - and use Bootstrap**.<br>
