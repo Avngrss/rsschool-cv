@@ -45,6 +45,5 @@ const changeClass = (el) => {
 ```
 ## MY CONTACT
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn&color=007BB6)<br>
-(https://www.linkedin.com/in/yuri-sedow)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn&color=007BB6)](https://www.linkedin.com/in/yuri-sedow)
 __[Mail] sedow94@mail.ru__
