@@ -38,7 +38,7 @@ function myFnc() {
   return 2 + 1
 }
 myFnc()
-***
+```
 ## MY CONTACT
 
 __[LinkedIn]https://www.linkedin.com/in/yuri-sedow__
