@@ -6,7 +6,7 @@
 
 ---
 
-Gomel, Belarus
+<<Gomel, Belarus>>
 
 ## My GitHub
 
