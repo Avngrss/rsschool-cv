@@ -34,10 +34,14 @@ I consider my strengths to be sociability and the ability to work in a team and 
 ---
 ## MY CODE
 ```javascript
-function myFnc() {
-  return 2 + 1
+const tabs = document.getElementById("tabs");
+const content = document.querySelectorAll(".content");
+const changeClass = (el) => {
+  for (i = 0; i < tabs.children.length; i++) {
+    tabs.children[i].classList.remove("active");
+  }
+  el.classList.add("active");
 };
-myFnc();
 ```
 ## MY CONTACT
 
