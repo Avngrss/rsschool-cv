@@ -11,7 +11,7 @@ __Gomel, Belarus__
 
 [![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)](https://github.com/Avngrss/fcgomel)
 
-[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)](https://github.com/Avngrss/Castaway and other)
+[![GitHub](https://img.shields.io/badge/-github-1E90FF?style=for-the-badge&logo=GitHub&color=000000)](https://github.com/Avngrss/Castaway)
 
 ---
 
